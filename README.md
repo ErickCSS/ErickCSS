@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickCSS
 - 👀 I’m interested in growing as a Frontend Developer
-- 🌱 I’m currently learning ReactJs, NextJs and NodeJs
+- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me: erickj.crusz@gmail.com
 <!---
 ErickCSS/ErickCSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
