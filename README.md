@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErickCSS
-- 👀 I’m interested in growing as a Frontend Developer
+- 👀 +4 years of experience. Frontend Developer from Santo Domingo, Dominican Republic 🇩🇴. Specialized in Web Development and unique user experiences.
 - 🌱 I’m currently learning NodeJs
 - 📫 How to reach me: erickj.crusz@gmail.com
 - 💻 This is my portfolio: [erickcs.com](http://erickcs.com/)
