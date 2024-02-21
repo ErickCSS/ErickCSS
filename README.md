@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickCSS
 - 👀 +4 years of experience. Frontend Developer from Santo Domingo, Dominican Republic 🇩🇴. Specialized in Web Development and unique user experiences.
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning GraphQl
 - 📫 How to reach me: erickj.crusz@gmail.com
 - 💻 This is my portfolio: [erickcs.com](http://erickcs.com/)
 <!---
